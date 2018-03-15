@@ -1,5 +1,18 @@
 <!DOCTYPE HTML>
 <html>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/ajax-v241.core.js"></script>
+<script defer src="assets/js/fontawesome-all.js"></script>
+
+<!--[if lte IE 8]>
+<script src="assets/js/ie/respond.min.js"></script>
+<![endif]-->
+
 <head>
     <title>Scissors 2 YOU - Kapster aan huis</title>
     <meta charset="utf-8" />
