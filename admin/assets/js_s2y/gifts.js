@@ -1,0 +1,1 @@
+document.getElementById('pagestring').innerHTML = "<strong>Scissors2 You </strong>Cadeaubonnen";
