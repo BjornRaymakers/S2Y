@@ -8,9 +8,9 @@ $app_id = $_GET["id"];
 $sendmail = $_GET["mail"];
 
 if ($app_id == '') {
-    $app = new appointment_class();
-    $client = new client_class();
-    $bill = new bill_class();
+    $app = new appointment();
+    $client = new client();
+    $bill = new bill();
 } else {
     $app = getAppointmentByID($_GET["id"]);
 

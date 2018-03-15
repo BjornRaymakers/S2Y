@@ -7,7 +7,6 @@ $appointments = getAppointments();
 
 <!-- Javascript -->
 <script src="assets/js_s2y/appointments.js"></script>
-<script>document.getElementById('pagestring').innerHTML = "<strong>Scissors2 You </strong>Afspraken";</script>
 
 <!-- Post -->
 <section>
